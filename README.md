@@ -1,6 +1,6 @@
 # SPQA
 This mini-framework contains a number of helper files for Selenium automation with Python.              
-Instructions for use are included at the top each file.
+Instructions for use are included at the top of each file.
 
 ## Assumptions, Notes, Caveats
 All requisite PY libs installed (any that aren't will be flagged)
