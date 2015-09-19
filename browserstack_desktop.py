@@ -5,7 +5,7 @@ HOW TO USE THIS SCRIPT
 ----------------------
 
 1. If testing on localhost, set ['browserstack.local' = True]
-   in our Desired Capabilities. See Browserstack.DC at the end of this file.
+   in our Desired Capabilities. See Browserstack.dcs at the end of this file.
 
 2. Start up BrowserStackLocal; see https://www.browserstack.com/local-testing#configuration
    If you don't already have the binary, download and unzip it.

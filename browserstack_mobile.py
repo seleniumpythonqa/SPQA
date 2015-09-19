@@ -11,7 +11,7 @@ HOW TO USE THIS SCRIPT
 2. Start up BrowserStackLocal; see https://www.browserstack.com/local-testing#configuration
    If you don't already have the binary, download and unzip it.
    In a terminal, navigate to the directory where the unzipped binary lives.
-   ./BrowserStackLocal YOUR_ACCESS_HERE
+   ./BrowserStackLocal YOUR_ACCESS_KEY
 
 3. In another terminal, navigate to the directory where this file lives and execute:
    python browserstack.py A B C
