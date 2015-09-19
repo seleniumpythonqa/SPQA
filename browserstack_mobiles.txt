@@ -1,0 +1,2 @@
+'Mac' 'iPad Air' 'iPad'
+'ANDROID' 'Google Nexus 5' 'android'
